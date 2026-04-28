@@ -1,6 +1,7 @@
 # Curso de Python
 
-Repositório com materiais de aprendizado e exercícios práticos de Python.
+Repositório com materiais de aprendizado e exercícios práticos de Python referente ao curso de Python 3 de Luíz Otávio miranda
+feito na Udemy.
 
 ## 📋 Descrição
 
